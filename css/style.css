@@ -117,10 +117,61 @@ section#lancamento {
    display: block;
 }
 
-section#lancamento h1 {
-   color: #ff0b0b;
+section#lancamento h2 {
+   color: #FFF;
    text-align: center;
-   font-size: 3rem;
+   font-size: 2rem;
+   font-weight: bold;
+   text-shadow: 1px 1px 2px #FFF;
+}
+section#lancamento p {
+   color: #FFF;
+   text-align: center;
+   font-size: 1rem;
+   font-weight: bold;
+   text-shadow: 1px 1px 2px #FFF;
+}
+
+section#filmes {
+   background: #000000;
+   border: 0px solid #FFF;
+   padding: 40px 0 60px 0;
+   display: block;
+}
+
+section#filmes h2 {
+   color: #ff0b0b;
+   text-align: left;
+   font-size: 2rem;
+   font-weight: bold;
+   text-shadow: 1px 1px 2px #FFF;
+}
+section#filmes p{
+   color: #FFF;
+   text-align: left;
+   font-size: 1rem;
+   font-weight: bold;
+   text-shadow: 1px 1px 2px #FFF;
+}
+
+section#series {
+   background: #000000;
+   border: 0px solid #FFF;
+   padding: 40px 0 60px 0;
+   display: block;
+}
+
+section#series h2 {
+   color: #ff0b0b;
+   text-align: left;
+   font-size: 2rem;
+   font-weight: bold;
+   text-shadow: 1px 1px 2px #FFF;
+}
+section#series  p {
+   color: #FFF;
+   text-align: left;
+   font-size: 1rem;
    font-weight: bold;
    text-shadow: 1px 1px 2px #FFF;
 }
